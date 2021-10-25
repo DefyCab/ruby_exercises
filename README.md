@@ -1,0 +1,1 @@
+The error message states a Syntax error. The programmer typed ")" instead of "}".
