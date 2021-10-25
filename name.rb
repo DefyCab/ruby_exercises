@@ -1,2 +1,2 @@
-puts "What's your name?"
-end
+a = [ "a", "b", "c"]
+a.each {|x| print x, "--"}
