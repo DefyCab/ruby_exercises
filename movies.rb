@@ -5,6 +5,8 @@ movie_4 = {name: "Lolita", year: 1962}
 
 movies = [movie_1[:year], movie_2[:year], movie_3[:year], movie_4[:year]]
 
+movies.sort!
+
 movies.each do |year|
     puts year
 end
