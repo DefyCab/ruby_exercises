@@ -10,3 +10,4 @@ print age + 20
 puts ""
 print "In 30 years you will be: "
 print age + 30
+puts ""
