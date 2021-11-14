@@ -7,6 +7,6 @@ movies = [movie_1[:year], movie_2[:year], movie_3[:year], movie_4[:year]]
 
 movies.sort!
 
-movies.each do |year|
+movies.each_index do |year|
     puts year
 end
